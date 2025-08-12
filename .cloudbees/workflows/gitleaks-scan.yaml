@@ -1,4 +1,4 @@
-name: gitleaks-scan
+name: gitleaks-scan-test
 kind: workflow
 apiVersion: automation.cloudbees.io/v1alpha1
 
