@@ -1,4 +1,4 @@
-# LeakyApp (Deliberately Insecure)
+# LeakyApp (Deliberately Insecure)!
 
 **WARNING:** This project contains intentional security flaws and is meant for **educational use only**.
 
