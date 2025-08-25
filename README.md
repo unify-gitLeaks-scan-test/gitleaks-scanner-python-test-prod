@@ -1,8 +1,8 @@
-# LeakyApp (Deliberately Insecure)
+# LeakyApp (Deliberately Insecure)!
 
 **WARNING:** This project contains intentional security flaws and is meant for **educational use only**.
 
-## Included Vulnerabilities
+## Included Vulnerabilities 
 - Hardcoded API Key
 - Hardcoded Password
 - Committed `.env` with secrets
